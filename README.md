@@ -30,6 +30,6 @@
 - inference time : 13.21 frame/s
 
 ## result
-<img src="doc/image/spiderman_before.avi" height="149" hspace="5">
+<img src="doc/spiderman_before.avi" height="149" hspace="5">
 
 
