@@ -10,7 +10,7 @@
 - 각 frame마다 image-to-image translation을 거친 후 단순히 이어 붙이면 매우 부자연스러운 결과가 발생
 
 [ style transfer ]
-- GAN을 사용하지 않은 style transfer도대부분 video가 아닌 image 위주의 연구
+- GAN을 사용하지 않은 style transfer도 대부분 video가 아닌 image 위주의 연구
 - style을 적용하고자 하는 content image와 style image를 네트워크에 통과시킬 때 나온 각각의 feature map을 바탕으로 새롭게 합성될 영상의 feature map이 비슷하도록 최적화
 
 
