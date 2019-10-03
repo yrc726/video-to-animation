@@ -29,5 +29,7 @@
 - training hours : 5 hours (10,00 iteration)
 - inference time : 13.21 frame/s
 
+## result
+<img src="doc/image/spiderman_before.avi" height="149" hspace="5">
 
 
