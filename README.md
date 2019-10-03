@@ -30,6 +30,14 @@
 - inference time : 13.21 frame/s
 
 ## result
-<img src="doc/spiderman_before.avi" height="149" hspace="5">
+https://www.youtube.com/watch?v=aQpUw1vQW4o
+
+[ apply edge detection ]
+- boundary가 분명한 애니메이션의 특성을 반영
+- sobel, canny, laplacian 3가지 edge detection 방법 중 가장 성능이 높은 laplacian edge detection 사용
+- result : https://www.youtube.com/watch?v=uMVmHCo4RLM
+
+[ spider man 영화 -> 애니메이션화한 결과 ]
+https://www.youtube.com/watch?v=uq1g3ZifTIY
 
 
